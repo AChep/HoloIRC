@@ -29,5 +29,5 @@
         android:id="@+id/activity_main_ab_settings"
         android:icon="@drawable/ic_menu_manage"
         android:title="@string/settings_title"
-        holoirc:showAsAction="ifRoom" />
+        holoirc:showAsAction="never" />
 </menu>
